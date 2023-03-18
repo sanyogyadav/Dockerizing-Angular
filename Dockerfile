@@ -1,2 +1,2 @@
 FROM nginx
-COPY ./dist/Dockerizing-Angular/ /usr/share/nginx/html
+COPY ./dist/dockerizing-angular/ /usr/share/nginx/html
